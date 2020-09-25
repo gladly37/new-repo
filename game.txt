@@ -2,3 +2,8 @@ public void doNothing()
 {
   Destroy(this);
 }
+
+public void doSomething()
+{
+
+}
