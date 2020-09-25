@@ -1,0 +1,4 @@
+public void doNothing()
+{
+  Destroy(this);
+}
